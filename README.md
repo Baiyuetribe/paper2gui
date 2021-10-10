@@ -1,14 +1,15 @@
 ##  <p align="center"> paper2gui 🚀🚀🌟: Let artificial intelligence popularize the masses. </p>
 
-<p align="center">English | <a href="README.zh.md">中文</a></p>
+<p align="center">English | <a href="README_zh.md">中文</a></p>
 
 - Object Detectio
+                                                 |
 
-| Name      | Size   | Model | Multi-language | Download                                              |
-| --------- | ------ | ----- | -------------- | ----------------------------------------------------- |
-| Yolo2-GUI | 64.1Mb | yolo2 | ✅              | [Yolo2-GUI](https://github.com/Baiyuetribe/paper2gui) |
-|           |        |       |                |                                                       |
-|           |        |       |                |                                                       |
+| Name      | Size | Model | Multi-language | Windows | Mac | Linux | Download                                              |
+| --------- | ---- | ----- | -------------- | ------- | --- | ----- | ----------------------------------------------------- |
+| Yolo2-GUI |      | yolo2 | ✅              | ✅       | 🔲   | 🔲     | [Yolo2-GUI](https://github.com/Baiyuetribe/paper2gui) |
+|           |      |       |                |         |     |       |                                                       |
+|           |      |       |                |         |     |       |                                                       |
 
 - Screenshot
 
