@@ -20,6 +20,7 @@
 
 - Screenshot
 
+![](docs/images/huoshan_tts.png)
 ![](docs/images/microsoft_tts.gif)
 
 ![](docs/images/yalo2screen.gif)

@@ -23,6 +23,7 @@
 
 - 部分截图
 
+![](docs/images/huoshan_tts.png)
 ![](docs/images/microsoft_tts.gif)
 
 ![](docs/images/yalo2screen.gif)
