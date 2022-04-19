@@ -4,12 +4,12 @@
 
 - 语音合成
 
-| 名称         | 大小 | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                    |
-| ------------ | ---- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------- |
-| 微软神经网络 | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | 🔲     | [微软神经网络语音合成](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
-| 抖音火山语音 | 13Mb | Unkonw     | ✅      | ✅       | ✅   | 🔲     | [抖音火山语音](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published)         |
-|              |      |            |        |         |     |       |                                                                                         |
-|              |      |            |        |         |     |       |                                                                                         |  |
+| 名称         | 大小 | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ------------ | ---- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| 微软神经网络 | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| 抖音火山语音 | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|              |      |            |        |         |     |       |                                                                                                                             |
+|              |      |            |        |         |     |       |                                                                                                                             |  |
 
 - 目标检测
 
