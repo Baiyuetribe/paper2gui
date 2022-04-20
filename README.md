@@ -1,6 +1,6 @@
 ##  <p align="center"> paper2gui 🚀🚀🌟: Let artificial intelligence popularize the masses. </p>
 
-<p align="center">English | <a href="README_zh.md">中文</a></p>
+<p align="center">English | <a href="README_zh.md">中文</a> | <a href="https://t.me/baiyueblog">Telegram</a></p>
 - Text to Speech
 
 | Name         | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                                                                                    |
