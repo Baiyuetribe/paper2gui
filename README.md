@@ -10,6 +10,13 @@
 |              |       |            |                |         |     |       |                                                                                                                             |
 |              |       |            |                |         |     |       |                                                                                                                             |
 
+- Video Frame Interpolation
+  
+| Name     | Size   | Model | Multi-language | Windows | Mac | Linux | Download                                                                                                                    |
+| -------- | ------ | ----- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| RIFE-GUI | 37.9Mb | Rife  | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|          |        |       |                |         |     |       |                                                                                                                             |
+|          |        |       |                |         |     |       |                                                                                                                             |
 - Object Detectio
 
 | Name      | Size | Model | Multi-language | Windows | Mac | Linux | Download                                              |
