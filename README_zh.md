@@ -16,6 +16,7 @@
 | 名称     | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | -------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | RIFE-GUI | 37.9Mb | Rife  | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| DAIN-GUI | 72.6Mb | Dain  | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |          |        |       |        |         |     |       |                                                                                                                             |
 |          |        |       |        |         |     |       |                                                                                                                             |
 
@@ -35,5 +36,7 @@
 ![](docs/images/microsoft_tts.gif)
 
 ![](docs/images/rife-gui.gif)
+
+![](docs/images/dain-gui.png)
 
 ![](docs/images/yalo2screen.gif)

@@ -15,6 +15,7 @@
 | Name     | Size   | Model | Multi-language | Windows | Mac | Linux | Download                                                                                                                    |
 | -------- | ------ | ----- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | RIFE-GUI | 37.9Mb | Rife  | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| DAIN-GUI | 72.6Mb | Dain  | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |          |        |       |                |         |     |       |                                                                                                                             |
 |          |        |       |                |         |     |       |                                                                                                                             |
 - Object Detectio
@@ -29,5 +30,9 @@
 
 ![](docs/images/huoshan_tts.png)
 ![](docs/images/microsoft_tts.gif)
+
+![](docs/images/rife-gui.gif)
+
+![](docs/images/dain-gui.png)
 
 ![](docs/images/yalo2screen.gif)
