@@ -1,4 +1,4 @@
-##  <p align="center"> paper2gui 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
+##  <p align="center"> Paper2GUI 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
 
 <p align="center"><a href="README.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a></p>
 

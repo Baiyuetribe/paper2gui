@@ -1,4 +1,4 @@
-##  <p align="center"> paper2gui 🚀🚀🌟: Make it easy and convenient for everyone to use cutting-edge artificial intelligence technology </p>
+##  <p align="center"> Paper2GUI 🚀🚀🌟: Make it easy and convenient for everyone to use cutting-edge artificial intelligence technology </p>
 
 <p align="center">English | <a href="README_zh.md">中文</a> | <a href="https://t.me/baiyueblog">Telegram</a></p>
 - Text to Speech
