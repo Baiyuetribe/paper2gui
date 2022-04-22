@@ -11,6 +11,15 @@
 |              |      |            |        |         |     |       |                                                                                                                             |
 |              |      |            |        |         |     |       |                                                                                                                             |  |
 
+- 视频超分辨放大
+  
+| 名称        | 大小   | Model   | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ----------- | ------ | ------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| waifu2x-GUI | 38.9Mb | waifu2x | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|             |        |         |        |         |     |       |                                                                                                                             |
+|             |        |         |        |         |     |       |
+
+
 - 视频补帧
   
 | 名称     | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
@@ -19,6 +28,7 @@
 | DAIN-GUI | 72.6Mb | Dain  | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |          |        |       |        |         |     |       |                                                                                                                             |
 |          |        |       |        |         |     |       |                                                                                                                             |
+
 
 - 目标检测
 
