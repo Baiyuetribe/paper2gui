@@ -13,11 +13,12 @@
 
 - 视频超分辨放大
   
-| 名称        | 大小   | Model   | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
-| ----------- | ------ | ------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| waifu2x-GUI | 38.9Mb | waifu2x | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|             |        |         |        |         |     |       |                                                                                                                             |
-|             |        |         |        |         |     |       |
+| 名称          | 大小   | Model     | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ------------- | ------ | --------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| waifu2x-GUI   | 38.9Mb | waifu2x   | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| RealCugan-GUI | 56.4Mb | RealCugan | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|               |        |           |        |         |     |       |                                                                                                                             |
+|               |        |           |        |         |     |       |
 
 
 - 视频补帧
@@ -48,5 +49,9 @@
 ![](docs/images/rife-gui.gif)
 
 ![](docs/images/dain-gui.png)
+
+![](docs/images/waifu2x-gui.png)
+
+![](docs/images/realcugan-gui.png)
 
 ![](docs/images/yalo2screen.gif)
