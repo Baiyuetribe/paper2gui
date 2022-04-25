@@ -3,12 +3,13 @@
 <p align="center">English | <a href="README_zh.md">中文</a> | <a href="https://t.me/baiyueblog">Telegram</a></p>
 - Text to Speech
 
-| Name         | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                                                                                    |
-| ------------ | ----- | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| 微软神经网络 | 3.6Mb | FastSpeech | ✅              | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| 抖音火山语音 | 13Mb  | Unkonw     | 🔲              | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|              |       |            |                |         |     |       |                                                                                                                             |
-|              |       |            |                |         |     |       |                                                                                                                             |
+| Name           | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                                                                                    |
+| -------------- | ----- | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| 微软语音合成   | 3.6Mb | FastSpeech | ✅              | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| 抖音火山语音   | 13Mb  | Unkonw     | 🔲              | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| 阿里云语音合成 | 13Mb  | Unkonw     | 🔲              | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|                |       |            |                |         |     |       |                                                                                                                             |
+|                |       |            |                |         |     |       |                                                                                                                             |
 
 - Video Super Resolution
   
@@ -53,5 +54,7 @@
 ![](docs/images/realcugan-gui.png)
 
 ![](docs/images/realsr-gui.png)
+
+![](docs/images/aliyun-tts.png)
 
 ![](docs/images/yalo2screen.gif)

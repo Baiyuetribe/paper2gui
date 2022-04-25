@@ -4,12 +4,13 @@
 
 - 语音合成
 
-| 名称         | 大小 | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
-| ------------ | ---- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| 微软神经网络 | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| 抖音火山语音 | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|              |      |            |        |         |     |       |                                                                                                                             |
-|              |      |            |        |         |     |       |                                                                                                                             |  |
+| 名称           | 大小 | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| -------------- | ---- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| 微软语音合成   | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| 抖音火山语音   | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| 阿里云语音合成 | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|                |      |            |        |         |     |       |                                                                                                                             |
+|                |      |            |        |         |     |       |                                                                                                                             |  |
 
 - 视频超分辨放大
   
@@ -59,5 +60,7 @@
 ![](docs/images/realcugan-gui.png)
 
 ![](docs/images/realsr-gui.png)
+
+![](docs/images/aliyun-tts.png)
 
 ![](docs/images/yalo2screen.gif)
