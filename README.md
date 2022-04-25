@@ -1,44 +1,52 @@
-##  <p align="center"> Paper2GUI 🚀🚀🌟: Make it easy and convenient for everyone to use cutting-edge artificial intelligence technology </p>
+##  <p align="center"> Paper2GUI 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
 
-<p align="center">English | <a href="README_zh.md">中文</a> | <a href="https://t.me/baiyueblog">Telegram</a></p>
-- Text to Speech
+Paper2GUI: 一个面向普通人的AI工具箱，免安装即开即用，支持Windows、Mac、Linux三端桌面APP。已支持10+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测等领域。让众多高大上的前沿人工智能技术，以GUI的方式做成跨桌面APP，方便所有喜欢AI的人快速使用这些技术。
 
-| Name           | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                                                                                    |
-| -------------- | ----- | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| 微软语音合成   | 3.6Mb | FastSpeech | ✅              | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| 抖音火山语音   | 13Mb  | Unkonw     | 🔲              | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| 阿里云语音合成 | 13Mb  | Unkonw     | 🔲              | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                |       |            |                |         |     |       |                                                                                                                             |
-|                |       |            |                |         |     |       |                                                                                                                             |
+<p align="center"><a href="README.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a></p>
 
-- Video Super Resolution
+- 语音合成
+
+| 名称           | 大小 | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| -------------- | ---- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| 微软语音合成   | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| 抖音火山语音   | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| 阿里云语音合成 | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|                |      |            |        |         |     |       |                                                                                                                             |
+|                |      |            |        |         |     |       |                                                                                                                             |  |
+
+- 视频超分辨放大
   
-| Name             | Size   | Model        | Multi-language | Windows | Mac | Linux | Download                                                                                                                    |
-| ---------------- | ------ | ------------ | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| waifu2x-GUI      | 38.9Mb | waifu2x      | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| RealESRGANv2-GUI | 29Mb   | RealESRGANv2 | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| RealCugan-GUI    | 56.4Mb | RealCugan    | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| RealSR-GUI       | 94.5Mb | RealSR       | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                  |        |              |                |         |     |       |                                                                                                                             |
-|                  |        |              |                |         |     |       |
+| 名称             | 大小   | Model        | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ---------------- | ------ | ------------ | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| waifu2x-GUI      | 38.9Mb | waifu2x      | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| RealESRGANv2-GUI | 29Mb   | RealESRGANv2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| RealCugan-GUI    | 56.4Mb | RealCugan    | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| RealSR-GUI       | 94.5Mb | RealSR       | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|                  |        |              |        |         |     |       |                                                                                                                             |
+|                  |        |              |        |         |     |       |
 
-- Video Frame Interpolation
+
+- 视频补帧
   
-| Name     | Size   | Model | Multi-language | Windows | Mac | Linux | Download                                                                                                                    |
-| -------- | ------ | ----- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| RIFE-GUI | 37.9Mb | Rife  | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| DAIN-GUI | 72.6Mb | Dain  | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|          |        |       |                |         |     |       |                                                                                                                             |
-|          |        |       |                |         |     |       |                                                                                                                             |
-- Object Detectio
+| 名称     | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| -------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| RIFE-GUI | 37.9Mb | Rife  | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| DAIN-GUI | 72.6Mb | Dain  | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|          |        |       |        |         |     |       |                                                                                                                             |
+|          |        |       |        |         |     |       |                                                                                                                             |
 
-| Name      | Size | Model | Multi-language | Windows | Mac | Linux | Download                                              |
-| --------- | ---- | ----- | -------------- | ------- | --- | ----- | ----------------------------------------------------- |
-| Yolo2-GUI |      | yolo2 | ✅              | ✅       | 🔲   | 🔲     | [Yolo2-GUI](https://github.com/Baiyuetribe/paper2gui) |
-|           |      |       |                |         |     |       |                                                       |
-|           |      |       |                |         |     |       |                                                       |
 
-- Screenshot
+- 目标检测
+
+| 名称      | 大小 | Model | 多语言 | Windows | Mac | Linux | 下载                                                  |
+| --------- | ---- | ----- | ------ | ------- | --- | ----- | ----------------------------------------------------- |
+| Yolo2-GUI |      | yolo2 | ✅      | ✅       | 🔲   | 🔲     | [Yolo2-GUI](https://github.com/Baiyuetribe/paper2gui) |
+|           |      |       |        |         |     |       |                                                       |
+|           |      |       |        |         |     |       |                                                       |  |
+
+
+
+- 部分截图
 
 ![](docs/images/huoshan_tts.png)
 ![](docs/images/microsoft_tts.gif)
