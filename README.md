@@ -2,7 +2,7 @@
 
 Paper2GUI: 一个面向普通人的AI工具箱，免安装即开即用，支持Windows、Mac、Linux三端桌面APP。已支持10+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测等领域。让众多高大上的前沿人工智能技术，以GUI的方式做成跨桌面APP，方便所有喜欢AI的人快速使用这些技术。
 
-<p align="center"><a href="README.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a></p>
+<p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a></p>
 
 - 语音合成
 
@@ -66,3 +66,17 @@ Paper2GUI: 一个面向普通人的AI工具箱，免安装即开即用，支持W
 ![](docs/images/aliyun-tts.png)
 
 ![](docs/images/yalo2screen.gif)
+
+## 参考
+
+- [webview/webview](https://github.com/webview/webview)
+- [Tencent/ncnn](https://github.com/Tencent/ncnn)
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- [wailsapp/wails](https://github.com/wailsapp/wails)
+- [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
+- [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan)
+- [nihui/rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan)
+- [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan)
+- [RealESRGAN](https://github.com/xinntao/Real-ESRGAN/)
+- [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)
+- [vitejs/vite](https://github.com/vitejs/vite)
