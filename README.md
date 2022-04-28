@@ -1,6 +1,6 @@
 ##  <p align="center"> Paper2GUI 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
 
-Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持10+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、图片OCR识别等领域。支持Windows、Mac、Linux系统。让每个人都简单方便的使用前沿人工智能技术。
+Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持10+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、图片OCR识别等领域。支持Windows、Mac、Linux系统。
 
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a></p>
 

@@ -1,6 +1,6 @@
 ##  <p align="center"> Paper2GUI 🚀🚀🌟: Make it easy and convenient for everyone to use cutting-edge artificial intelligence technology </p>
 
-Paper2GUI: An AI desktop APP toolbox for common people, free installation and ready to use, already supports 10+ AI models, covering the fields of speech synthesis, video frame filling, video overscoring, target detection, image stylization, image OCR recognition, etc. Support Windows, Mac, Linux systems. Make it simple and convenient for everyone to use cutting-edge AI technology.
+Paper2GUI: An AI desktop APP toolbox for common people, free installation and ready to use, already supports 10+ AI models, covering the fields of speech synthesis, video frame filling, video overscoring, target detection, image stylization, image OCR recognition, etc. Support Windows, Mac, Linux systems.
 
 <p align="center">English | <a href="README.md">中文</a> | <a href="https://t.me/baiyueblog">Telegram</a></p>
 - Text to Speech
