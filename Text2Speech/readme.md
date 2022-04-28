@@ -96,6 +96,9 @@
 ## 参考
 
 - [系统调研450篇文献，微软亚洲研究院推出超详尽语音合成综述](https://www.msra.cn/zh-cn/news/features/neural-speech-synthesis-survey)
-- [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui)
 - [火山引擎](https://www.volcengine.com/)
 - [阿里云](https://ai.aliyun.com/nls/tts)
+- [FastSpeech](https://www.msra.cn/zh-cn/news/features/fastspeech2)
+- [Naive-ui](https://www.naiveui.com/zh-CN/os-theme)
+- [wailsapp/wails](https://github.com/wailsapp/wails)
+- [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui)

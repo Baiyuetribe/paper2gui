@@ -18,3 +18,20 @@
 ## 付费须知
 
 请前往[微软官网](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview)注册订阅，开通后填入对应的参数即可使用，每月免费50万字。
+
+## 下载地址：
+
+方式1：[GitHub](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published)
+方式2：[阿里云盘](https://www.aliyundrive.com/s/2b4hyudGkni)
+
+## 使用反馈：
+
+请前往：https://github.com/Baiyuetribe/paper2gui/issues
+
+
+## 相关资料：
+
+- [FastSpeech](https://www.msra.cn/zh-cn/news/features/fastspeech2)
+- [Naive-ui](https://www.naiveui.com/zh-CN/os-theme)
+- [wailsapp/wails](https://github.com/wailsapp/wails)
+- [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui)
