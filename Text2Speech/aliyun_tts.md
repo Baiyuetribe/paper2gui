@@ -1,5 +1,7 @@
 # 阿里云语音合成工具
 
+【快捷入口：[综述](readme.md) # [微软语音](microsoft_tts.md) # [火山语音](huoshan_tts.md) # [阿里云语音](aliyun_tts.md)】
+
 ## 软件截图
 
 ![](../docs/images/aliyun-tts.png)
