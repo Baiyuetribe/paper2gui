@@ -31,7 +31,17 @@ Paper2GUI: an AI toolbox for ordinary people, free installation and ready to use
 | RIFE-GUI | 37.9Mb | Rife  | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | DAIN-GUI | 72.6Mb | Dain  | 🔲              | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |          |        |       |                |         |     |       |                                                                                                                             |
-|          |        |       |                |         |     |       |                                                                                                                             |
+|          |        |       |                |         |     |       |
+
+- Styletransfer(photo2Carton)
+
+| Name         | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                 |
+| ------------ | ----- | ---------- | -------------- | ------- | --- | ----- | -------------------------------------------------------- |
+| AnimeGAN-GUI | 8.9Mb | AnimeGANv2 | ✅              | ✅       | 🔲   | 🔲     | [AnimeGAN-GUI](https://github.com/Baiyuetribe/paper2gui) |
+|              |       |            |                |         |     |       |                                                          |
+|              |       |            |                |         |     |       |                                                          |  |
+
+                                                                                                                            |
 - Object Detectio
 
 | Name      | Size | Model | Multi-language | Windows | Mac | Linux | Download                                              |
@@ -58,5 +68,7 @@ Paper2GUI: an AI toolbox for ordinary people, free installation and ready to use
 ![](docs/images/realsr-gui.png)
 
 ![](docs/images/aliyun-tts.png)
+
+![](docs/images/animegan-gui.png)
 
 ![](docs/images/yalo2screen.gif)
