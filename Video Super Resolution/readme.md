@@ -22,28 +22,31 @@
 <https://user-images.githubusercontent.com/61866546/147812864-52fdde74-602f-4f64-ac05-4d34cc58aa79.mp4>
 ## 速度PK
 
-测试信息：Windows 11
-处理器	Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz   3.70 GHz
-显卡 NVIDIA GeForce RTX 2070 SUPER
-机带 RAM	32.0 GB
+| 测试信息 | 内容                                      |
+| -------- | ----------------------------------------- |
+| 系统     | Windows 11                                |
+| 处理器   | Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz |
+| 显卡     | NVIDIA GeForce RTX 2070 SUPER             |
+| RAM      | 32.0 GB                                   |
 
 
-源文件： 任务：放大4倍
 
-<docs/video/vsr/onepiece_demo.mp4>
+源文件： 任务：放大2倍
 
-| 算法       | 超分耗时 |
-| ---------- | -------- |
-| waifu2x    | 4.30秒   |
-| RealCugan  | 17.01秒  |
-| RealESRGAN | 21.91秒  |
-| RealSR     | -        |
+<https://raw.githubusercontent.com/Baiyuetribe/paper2gui/main/docs/video/vsr/onepiece_demo.mp4>
+
+| 算法       | 超分耗时 | 转换质量 |
+| ---------- | -------- | -------- |
+| waifu2x    | 4.30秒   | 差       |
+| RealCugan  | 17.01秒  | 优       |
+| RealESRGAN | 21.91秒  | 优       |
+| RealSR     | -        | -        |
 
 实际效果：
 
-<docs/video/vsr/onepiece_demo_waifu_2X_0429182311.mp4>
-<docs/video/vsr/onepiece_demo_realcugan_2X_0429181825.mp4>
-<docs/video/vsr/onepiece_demo_RealESRGANv2_2X_0429182058.mp4>
+<https://raw.githubusercontent.com/Baiyuetribe/paper2gui/main/docs/video/vsr/onepiece_demo_waifu_2X_0429182311.mp4>
+<https://raw.githubusercontent.com/Baiyuetribe/paper2gui/main/docs/video/vsr/onepiece_demo_realcugan_2X_0429181825.mp4>
+<https://raw.githubusercontent.com/Baiyuetribe/paper2gui/main/docs/video/vsr/onepiece_demo_RealESRGANv2_2X_0429182058.mp4>
 
 
 ## 创意PK
