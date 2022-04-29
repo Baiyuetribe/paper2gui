@@ -12,21 +12,19 @@
 - 截至目前补帧速度最快的算法
 - 支持Windows(Mac、Linux后续补全)
 - 软件比较小，轻量便捷
-- 支持vulkan GPU加速
 - 软件体积小，轻量便捷
-- 超分效果好
-- 理论可以无限超分，内置60~360帧
+- 理论支持无限超分，内置60~360帧
+- 支持vulkan GPU加速，低显存消耗
 
-## 效果对比：
+## 效果演示：
 
-26FPS-->360FPS
-| 原始                                           | 补帧率                                                                                                                         |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <video src="/docs/video/guailing.mp4"></video> | <video src="docs/video/guailing_360fps_rife_0429142933.mp4"></video>                                                           |
-| <video src="/docs/video/guailing.mp4"></video> | <video id="video" controls="" preload="none" poster="/files/attachments/00157149087892838c0a4f89cd9475d9469988dae002563000/l"> |
-  <source id="mp4" src="http://ask.ivideo.sina.com.cn/v_play_ipad.php?vid=30673363301" type="video/mp4">
-</video> |
+| 原始低帧率                       | 补帧后                           |
+| -------------------------------- | -------------------------------- |
+| ![](../docs/video/guailing0.gif) | ![](../docs/video/guailing1.gif) |
 
+## 使用场景：
+
+B站动漫超分补帧，24fps转60fps，实现丝滑画质。
 
 ## 下载地址：
 
@@ -41,6 +39,7 @@
 
 - [hzwer/arXiv2021-RIFE](https://github.com/hzwer/arXiv2021-RIFE)
 - [nihui/rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan)
+- [Tencent/ncnn](https://github.com/Tencent/ncnn)
 - [Naive-ui](https://www.naiveui.com/zh-CN/os-theme)
 - [wailsapp/wails](https://github.com/wailsapp/wails)
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui)
