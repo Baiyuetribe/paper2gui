@@ -1,6 +1,6 @@
 # 视频超分
 
-【快捷入口：[综述](readme.md) # [Rife](rife-gui.md) # [DAIN](dain-gui.md)】
+【快捷入口：[综述](readme.md) # [RealCugan](RealCugan-GUI.md) # [RealESRGAN](RealESRGAN-GUI.md) # [Waifu2x](waifu2x-gui.md) # [ReslSR](RealSR-GUI.md)】
 
 ## 开发者评价
 > 截至2022年4月，视频超分辨百花齐放，不过目前主要在动漫领域表现出色，其中RealESGAN、RealCugan等算法已经明显优于waifu2x。
@@ -12,7 +12,9 @@
 
 ![](../docs/images/styletransfer/iu.jpg)
 ![](https://github.com/bilibili/ailab/blob/main/Real-CUGAN/demos/title-compare1.png)
-
+![](https://github.com/xinntao/Real-ESRGAN/raw/master/assets/teaser.jpg)
+![](https://raw.githubusercontent.com/xinntao/public-figures/master/Real-ESRGAN/cmp_realesrgan_anime_1.png)
+![](https://github.com/jixiaozhong/RealSR/blob/master/figures/0935.png)
 <https://user-images.githubusercontent.com/17445847/145706977-98bc64a4-af27-481c-8abe-c475e15db7ff.MP4>
 
 <https://user-images.githubusercontent.com/17445847/145707055-6a4b79cb-3d9d-477f-8610-c6be43797133.MP4>
@@ -55,6 +57,8 @@
 
 ## 参考
 
+- [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)
+- [jixiaozhong/RealSR](https://github.com/jixiaozhong/RealSR)
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [bilibili/ailab](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 - [Naive-ui](https://www.naiveui.com/zh-CN/os-theme)
