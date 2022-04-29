@@ -1,4 +1,4 @@
-# Rife-GUI人工智能视频补帧
+# Dain-GUI人工智能视频补帧
 
 【快捷入口：[综述](readme.md) # [Rife](rife-gui.md) # [DAIN](dain-gui.md)】
 
