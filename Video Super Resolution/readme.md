@@ -33,7 +33,7 @@
 
 源文件： 任务：放大2倍
 
-<https://raw.githubusercontent.com/Baiyuetribe/paper2gui/main/docs/video/vsr/onepiece_demo.mp4>
+<https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/video/vsr/onepiece_demo.mp4>
 
 | 算法       | 超分耗时 | 转换质量 |
 | ---------- | -------- | -------- |
