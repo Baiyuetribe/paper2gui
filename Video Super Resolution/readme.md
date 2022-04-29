@@ -37,12 +37,13 @@
 
 <https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/video/vsr/onepiece_demo.mp4>
 
-| 算法       | 超分耗时 | 转换质量 |
-| ---------- | -------- | -------- |
-| waifu2x    | 4.30秒   | 差       |
-| RealCugan  | 17.01秒  | 优       |
-| RealESRGAN | 21.91秒  | 优       |
-| RealSR     | -        | -        |
+| 算法           | 超分耗时 | 转换质量 |
+| -------------- | -------- | -------- |
+| waifu2x        | 4.30秒   | 差       |
+| RealESRGAN     | 8.6秒    | 优       |
+| RealCugan      | 17.01秒  | 优       |
+| RealESRGAN(v2) | 21.91秒  | 优       |
+| RealSR         | -        | -        |
 
 实际效果：
 

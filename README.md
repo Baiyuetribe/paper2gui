@@ -4,6 +4,8 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a></p>
 
+### 已发布内容
+
 - [语音合成](Text2Speech/readme.md)
 
 | 名称                                         | 大小 | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
@@ -19,7 +21,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | 名称                                                           | 大小   | Model        | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | -------------------------------------------------------------- | ------ | ------------ | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | [waifu2x-GUI](Video%20Super%20Resolution/waifu2x-gui.md)       | 38.9Mb | waifu2x      | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| [RealESRGAN-GUI](Video%20Super%20Resolution/RealESRGAN-GUI.md) | 29Mb   | RealESRGANv2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [RealESRGAN-GUI](Video%20Super%20Resolution/RealESRGAN-GUI.md) | 28.8Mb | RealESRGANv2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealCugan-GUI](Video%20Super%20Resolution/RealCugan-GUI.md)   | 56.4Mb | RealCugan    | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealSR-GUI](Video%20Super%20Resolution/RealSR-GUI.md)         | 94.5Mb | RealSR       | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |                                                                |        |              |        |         |     |       |                                                                                                                             |
@@ -53,29 +55,28 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 |           |      |       |        |         |     |       |                                                       |  |
 
 
+### 部分截图
 
-- 部分截图
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/huoshan_tts.png)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/microsoft_tts.gif)
 
-![](docs/images/huoshan_tts.png)
-![](docs/images/microsoft_tts.gif)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/rife-gui.gif)
 
-![](docs/images/rife-gui.gif)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/dain-gui.png)
 
-![](docs/images/dain-gui.png)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/waifu2x-gui.png)
 
-![](docs/images/waifu2x-gui.png)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/RealESRGANv2-GUI.png)
 
-![](docs/images/RealESRGANv2-GUI.png)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realcugan-gui.png)
 
-![](docs/images/realcugan-gui.png)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realsr-gui.png)
 
-![](docs/images/realsr-gui.png)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/aliyun-tts.png)
 
-![](docs/images/aliyun-tts.png)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/animegan-gui.png)
 
-![](docs/images/animegan-gui.png)
-
-![](docs/images/yalo2screen.gif)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/yalo2screen.gif)
 
 ## 参考
 
@@ -83,6 +84,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 - [Tencent/ncnn](https://github.com/Tencent/ncnn)
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
 - [wailsapp/wails](https://github.com/wailsapp/wails)
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
 - [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan)
 - [nihui/rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan)
