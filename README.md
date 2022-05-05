@@ -1,6 +1,6 @@
 ##  <p align="center"> Paper2GUI 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
 
-Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持10+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、图片OCR识别等领域。支持Windows、Mac、Linux系统。
+Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持10+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、图片OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a></p>
 
@@ -20,7 +20,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
   
 | 名称                                                           | 大小   | Model        | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | -------------------------------------------------------------- | ------ | ------------ | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [waifu2x-GUI](Video%20Super%20Resolution/waifu2x-gui.md)       | 38.9Mb | waifu2x      | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [waifu2x-GUI](Video%20Super%20Resolution/waifu2x-gui.md)       | 38.9Mb | waifu2x      | ⏳      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealESRGAN-GUI](Video%20Super%20Resolution/RealESRGAN-GUI.md) | 28.8Mb | RealESRGANv2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealCugan-GUI](Video%20Super%20Resolution/RealCugan-GUI.md)   | 56.4Mb | RealCugan    | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealSR-GUI](Video%20Super%20Resolution/RealSR-GUI.md)         | 94.5Mb | RealSR       | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
@@ -78,7 +78,12 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/yalo2screen.gif)
 
-## 参考
+
+### 适配说明
+
+本人开发环境为`Windows`系统，默认会发布`Windows`和`Linux`版本，得益于微软`Sandbox`和`WSL2`，可随时测试这些环境。Mac版需要主动参与反馈。安卓APP和苹果APP，技术上是支持的(`uni-app+ncnn`)，未来或许可以加入。小程序端实现方式很多，有离线原生的`wasm`技术，也有在线远程调用api的方式，未来或许可以加入。
+
+### 参考
 
 - [webview/webview](https://github.com/webview/webview)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn)
