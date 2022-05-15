@@ -1,4 +1,4 @@
-# RealCugan-GUI 动漫视频超分工具
+# MODNet-GUI 视频抠图工具
 
 【快捷入口：[综述](readme.md) # [MODNet](modnet_gui.md) 】
 
@@ -51,8 +51,7 @@
 
 ## 参考
 
-- [bilibili/ailab](https://github.com/bilibili/ailab/edit/main/Real-CUGAN)
-- [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan)
+- [ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)
 - [Naive-ui](https://www.naiveui.com/zh-CN/os-theme)
 - [wailsapp/wails](https://github.com/wailsapp/wails)
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui)
