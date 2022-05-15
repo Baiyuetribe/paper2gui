@@ -39,9 +39,8 @@ Paper2GUI: An AI desktop APP toolbox for common people, free installation and re
 | ------------ | ----- | ---------- | -------------- | ------- | --- | ----- | -------------------------------------------------------- |
 | AnimeGAN-GUI | 8.9Mb | AnimeGANv2 | ✅              | ✅       | 🔲   | 🔲     | [AnimeGAN-GUI](https://github.com/Baiyuetribe/paper2gui) |
 |              |       |            |                |         |     |       |                                                          |
-|              |       |            |                |         |     |       |                                                          |  |
 
-                                                                                                                            |
+
 - Object Detectio
 
 | Name      | Size | Model | Multi-language | Windows | Mac | Linux | Download                                              |

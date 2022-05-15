@@ -47,30 +47,30 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 > 图像风格化，可以将照片转换为动漫风格、梵高风格、毕加索风格等等。
 
-| 名称                                             | 大小  | Model      | 多语言 | Windows | Mac | Linux | 下载                                                     |
-| ------------------------------------------------ | ----- | ---------- | ------ | ------- | --- | ----- | -------------------------------------------------------- |
-| [AnimeGAN-GUI](Style%20Transfer/animegan_gui.md) | 8.9Mb | AnimeGANv2 | ✅      | ✅       | 🔲   | 🔲     | [AnimeGAN-GUI](https://github.com/Baiyuetribe/paper2gui) |
-|                                                  |       |            |        |         |     |       |                                                          |
-|                                                  |       |            |        |         |     |       |                                                          |  |
+| 名称                                             | 大小  | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ------------------------------------------------ | ----- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| [AnimeGAN-GUI](Style%20Transfer/animegan_gui.md) | 8.9Mb | AnimeGANv2 | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|                                                  |       |            |        |         |     |       |                                                                                                                             |
+|                                                  |       |            |        |         |     |       |                                                                                                                             |  |
 
 - [人像抠图](ImageMatting/readme.md)
 
 > AI一键抠图，可生成透明图、绿幕、红幕、蓝幕等背景图片，头发丝处理良好，适合任意人物抠图需求。
 
-| 名称                               | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                |
-| ---------------------------------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------- |
-| [RVM-GUI](ImageMatting/rvm_gui.md) | 12.9Mb | rvm   | 🔲      | ✅       | 🔲   | 🔲     | [RVM-GUI](https://github.com/Baiyuetribe/paper2gui) |
-|                                    |        |       |        |         |     |       |                                                     |
+| 名称                               | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ---------------------------------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| [RVM-GUI](ImageMatting/rvm_gui.md) | 12.9Mb | rvm   | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|                                    |        |       |        |         |     |       |                                                                                                                             |
 |                                    |
 
 - [视频抠图](VideoMatting/readme.md)
 
-> 视频抠图，利用RVM等算法，可实现无绿幕视频抠图，适合各种自媒体视频制作。
+> 视频抠图，利用RVM等算法，可实现无绿幕视频抠图，适合各种自媒体视频制作，节约大量时间。
 
-| 名称 | 大小 | Model | 多语言 | Windows | Mac | Linux | 下载 |
-| ---- | ---- | ----- | ------ | ------- | --- | ----- | ---- |
-|      |      |       |        |         |     |       |      |
-|      |      |       |        |         |     |       |      |  |
+| 名称                           | 大小   | Model  | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ------------------------------ | ------ | ------ | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| [MODNet-GUI](Video/rvm_gui.md) | 77.5Mb | modnet | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|                                |        |        |        |         |     |       |                                                                                                                             |  |
 
 
 - [目标检测](Object%20Detection/readme.md)
@@ -91,7 +91,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/rife-gui.gif)
 
-![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/dain-gui.png)
+![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/modnet_gui.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/waifu2x-gui.png)
 
