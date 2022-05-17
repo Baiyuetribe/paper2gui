@@ -4,7 +4,7 @@
 
 ## 软件截图：
 
-![](../docs/images/modnet_gui.png)
+![](../docs/images/mobilenetv2_gui.png)
 
 ## 效果演示：
 
