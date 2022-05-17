@@ -1,4 +1,4 @@
-# MODNet-GUI 视频抠图工具
+# MobileNetV2-GUI 视频抠图工具
 
 【快捷入口：[综述](readme.md) # [MODNet](modnet_gui.md) # [MobileNetV2](mobilenetv2_gui.md) 】
 
@@ -36,7 +36,7 @@
 | RAM      | 32.0 GB                                   |
 
 <!-- 源文件： 以demo.mp4为例，传统硬盘模式下：FPS为23.98，视频大小为1920*1080，视频时长为14s；在上述环境下，抠图总耗时：17.3s，平均FPS：37.9 -->
-源文件： 以demo.mp4为例，FPS为23.98，视频大小为1920*1080，视频时长为14s；在上述环境下，抠图总耗时：8.91s，平均FPS：48.07
+源文件： 以demo.mp4为例，FPS为23.98，视频大小为1920*1080，视频时长为14s；在上述环境下，抠图总耗时：9.05s，平均FPS：46.85
 
 ## 重要突破：
 
@@ -52,8 +52,7 @@
 请前往：https://github.com/Baiyuetribe/paper2gui/issues
 
 ## 参考
-
-- [ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)
+- [d-li14/mobilenetv2.pytorch](https://github.com/d-li14/mobilenetv2.pytorch)
 - [Naive-ui](https://www.naiveui.com/zh-CN/os-theme)
 - [wailsapp/wails](https://github.com/wailsapp/wails)
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui)

@@ -1,6 +1,6 @@
 # 视频抠图
 
-【快捷入口：[综述](readme.md) # [MODNet](modnet_gui.md) 】
+【快捷入口：[综述](readme.md) # [MODNet](modnet_gui.md) # [MobileNetV2](mobilenetv2_gui.md) 】
 
 ## 开发者评价
 > 截至2022年5月，视频抠图基本成熟，可以应对比较复杂的实物场景，其中尤其以RVM为代表。
