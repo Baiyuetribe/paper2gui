@@ -22,14 +22,15 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 > 视频超分工具，适用于720p或360p视频转1080p或4k视频,画质升级且不模糊，目前主要用于动漫视频超分。
   
-| 名称                                                           | 大小   | Model        | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
-| -------------------------------------------------------------- | ------ | ------------ | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [waifu2x-GUI](Video%20Super%20Resolution/waifu2x-gui.md)       | 38.9Mb | waifu2x      | ⏳      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| [RealESRGAN-GUI](Video%20Super%20Resolution/RealESRGAN-GUI.md) | 28.8Mb | RealESRGANv2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| [RealCugan-GUI](Video%20Super%20Resolution/RealCugan-GUI.md)   | 56.4Mb | RealCugan    | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| [RealSR-GUI](Video%20Super%20Resolution/RealSR-GUI.md)         | 94.5Mb | RealSR       | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                                                                |        |              |        |         |     |       |                                                                                                                             |
-|                                                                |        |              |        |         |     |       |
+| 名称                                                                    | 大小   | Model        | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ----------------------------------------------------------------------- | ------ | ------------ | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| [RealESRGAN-GUI(RAM)](Video%20Super%20Resolution/RealESRGAN-GUI-RAM.md) | 41.8Mb | RealESRGANv3 | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [waifu2x-GUI](Video%20Super%20Resolution/waifu2x-gui.md)                | 38.9Mb | waifu2x      | ⏳      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [RealESRGAN-GUI](Video%20Super%20Resolution/RealESRGAN-GUI.md)          | 28.8Mb | RealESRGANv2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [RealCugan-GUI](Video%20Super%20Resolution/RealCugan-GUI.md)            | 56.4Mb | RealCugan    | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [RealSR-GUI](Video%20Super%20Resolution/RealSR-GUI.md)                  | 94.5Mb | RealSR       | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+|                                                                         |        |              |        |         |     |       |                                                                                                                             |
+|                                                                         |        |              |        |         |     |       |
 
 
 - [视频补帧](Video%20Frame%20Interpolation/readme.md)
@@ -127,3 +128,4 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 - [RealESRGAN](https://github.com/xinntao/Real-ESRGAN/)
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)
 - [vitejs/vite](https://github.com/vitejs/vite)
+- [Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models)
