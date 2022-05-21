@@ -99,6 +99,8 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/RealESRGANv2-GUI.png)
 
+![](docs/images/realESRGAN_RAM.png)
+
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realcugan-gui.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realsr-gui.png)
