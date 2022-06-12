@@ -1,0 +1,34 @@
+var:
+  title: RIFE-GUI artificial intelligence video frame filler RAM version(Power by 佰阅科技)
+
+menue:
+  task: Frame-Interpolation
+  setting: setting
+  language: language
+  tool: tool
+  about: about
+
+task:
+  name: AI Video Frame-Interpolation - Rife(Video Frame Interpolation)
+  input: input
+  choice: Select file
+  start: start
+  cancel: cancel task
+  scale: Zoom in
+  x: times
+  progress: progress
+
+setting:
+  word0: This version is in memory mode, no hard drive space is consumed and the memory does not spike, so even long videos can be handled easily.
+  word1: Concurrent parameters to RTX 2070 prevail, compared to the old version of the hard disk mode generally speed up more than 30%.
+  word2: The output file is generated at the input video location and is in the format rife_20220418.mp4
+
+language:
+  slogan: Making cutting-edge AI technology easy and accessible to everyone
+
+about:
+  soft_info: Software information
+  ad_info: sponsored ads
+  ai_name: Rife Video Frame-Interpolation.
+  ai_text: It is especially suitable for sports video frame filling, achieving silky smoothness. We upgrade the traditional reliance on hard disk space to memory mode, with high concurrency and over 30% speedup in general, and support GPU acceleration of any graphics card.
+  reference: Related information.

@@ -1,0 +1,34 @@
+var:
+  title: RealESRGAN-GUI Artificial Intelligence Video Super-resolution Magnification(Power by 佰读科技)
+
+menue:
+  task: super-resolution
+  setting: setting
+  language: language
+  tool: tool
+  about: about
+
+task:
+  name: AI Video Super-resolution - RealESRGAN(Video Super-resolution)
+  input: input
+  choice: Select file
+  start: start
+  cancle: cancle task
+  scale: Zoom in
+  x: times
+  progress: progress
+
+setting:
+  word0: This version is in memory mode, no hard drive space is consumed and the memory does not spike, so even long videos can be handled easily.
+  word1: Concurrency parameters are based on RTX 2070, if you find that your advanced graphics card is under 90% utilised please go to GitHub and give us your feedback.
+  word2: The output file is generated at the input video location and is in the format RealESRGAN_20220418.mp4
+
+language:
+  slogan: Making cutting-edge AI technology easy and accessible to everyone
+
+about:
+  soft_info: Software information
+  ad_info: sponsored ads
+  ai_name: RealESRGAN super-resolution.
+  ai_text: Real-ESRGAN is very powerful in the field of picture enlargement, the traditional model is only suitable for single picture enlargement, for anime video, specially trained RealESRGAN algorithm of only about 1Mb, which can realize picture intelligent enlargement by 2/4 times, very powerful for anime cartoon super-resolution, characterized by fast speed and super high output quality.
+  reference: Related information.

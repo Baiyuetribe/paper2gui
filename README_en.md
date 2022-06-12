@@ -71,3 +71,7 @@ Paper2GUI: An AI desktop APP toolbox for common people, free installation and re
 ![](docs/images/animegan-gui.png)
 
 ![](docs/images/yalo2screen.gif)
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Baiyuetribe/paper2gui&type=Date)](https://star-history.com/#Baiyuetribe/paper2gui&Date)

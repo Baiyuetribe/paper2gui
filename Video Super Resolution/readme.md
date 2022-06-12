@@ -1,6 +1,6 @@
 # 视频超分
 
-【快捷入口：[综述](readme.md) # [RealCugan](RealCugan-GUI.md) # [RealESRGAN](RealESRGAN-GUI.md) # [Waifu2x](waifu2x-gui.md) # [ReslSR](RealSR-GUI.md)】
+【快捷入口：[综述](readme.md) # [RealESRGAN-RAM](RealESRGAN-GUI-RAM.md) # [RealCugan](RealCugan-GUI.md) # [RealESRGAN](RealESRGAN-GUI.md) # [Waifu2x](waifu2x-gui.md) # [ReslSR](RealSR-GUI.md)】
 
 ## 开发者评价
 > 截至2022年4月，视频超分辨百花齐放，不过目前主要在动漫领域表现出色，其中RealESGAN、RealCugan等算法已经明显优于waifu2x。

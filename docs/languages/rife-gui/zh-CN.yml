@@ -1,0 +1,34 @@
+var:
+  title: RIFE-GUI人工智能视频补帧RAM版(Power by 佰阅科技)
+
+menue:
+  task: 补帧
+  setting: 设置
+  language: 语言
+  tool: 工具
+  about: 关于
+
+task:
+  name: AI视频补帧 - RIFE(Video Frame Interpolation)
+  input: 输入视频
+  choice: 选择文件
+  start: 开始
+  cancel: 取消任务
+  scale: 帧率放大
+  x: 倍
+  progress: 任务进度
+
+setting:
+  word0: 此版本为内存模式，不消耗硬盘空间，同时内存也不会暴涨，视频再长也能轻松应对。
+  word1: 并发参数以RTX 2070为准，相比旧版硬盘模式普遍提速30%以上。
+  word2: 输出文件在输入视频位置生成，格式为rife_20220418.mp4
+
+language:
+  slogan: 让每个人都简单方便的使用前沿人工智能技术
+
+about:
+  soft_info: 软件信息
+  ad_info: 赞助广告
+  ai_name: Rife视频补帧：
+  ai_text: 特别适合运动类视频补帧，实现丝滑流畅。我们将传统依赖硬盘空间补帧升级为内存模式，并发高、普遍提速30%以上，支持任意显卡GPU加速。
+  reference: 相关资料：

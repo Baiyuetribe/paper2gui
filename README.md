@@ -12,8 +12,8 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 | 名称                                         | 大小 | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | -------------------------------------------- | ---- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [微软语音合成](Text2Speech/microsoft_tts.md) | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| [抖音火山语音](Text2Speech/huoshan_tts.md)   | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [微软语音合成🔥](Text2Speech/microsoft_tts.md) | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [抖音火山语音🔥](Text2Speech/huoshan_tts.md)   | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [阿里云语音合成](Text2Speech/aliyun_tts.md)  | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |                                              |      |            |        |         |     |       |                                                                                                                             |
 |                                              |      |            |        |         |     |       |                                                                                                                             |  |
@@ -24,7 +24,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
   
 | 名称                                                                    | 大小   | Model        | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | ----------------------------------------------------------------------- | ------ | ------------ | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [RealESRGAN-GUI(RAM)](Video%20Super%20Resolution/RealESRGAN-GUI-RAM.md) | 41.8Mb | RealESRGANv3 | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [RealESRGAN-GUI(RAM)🔥](Video%20Super%20Resolution/RealESRGAN-GUI-RAM.md) | 41.8Mb | RealESRGANv3 | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [waifu2x-GUI](Video%20Super%20Resolution/waifu2x-gui.md)                | 38.9Mb | waifu2x      | ⏳      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealESRGAN-GUI](Video%20Super%20Resolution/RealESRGAN-GUI.md)          | 28.8Mb | RealESRGANv2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealCugan-GUI](Video%20Super%20Resolution/RealCugan-GUI.md)            | 56.4Mb | RealCugan    | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
@@ -39,7 +39,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 | 名称                                                  | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | ----------------------------------------------------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [RIFE-GUI](Video%20Frame%20Interpolation/rife-gui.md) | 37.9Mb | Rife  | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [RIFE-GUI(RAM)🔥](Video%20Frame%20Interpolation/rife-gui.md) | 51.2Mb | Rife  | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [DAIN-GUI](Video%20Frame%20Interpolation/dain-gui.md) | 72.6Mb | Dain  | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |                                                       |        |       |        |         |     |       |                                                                                                                             |
 |                                                       |        |       |        |         |     |       |                                                                                                                             |
@@ -50,7 +50,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 | 名称                                             | 大小  | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | ------------------------------------------------ | ----- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [AnimeGAN-GUI](Style%20Transfer/animegan_gui.md) | 8.9Mb | AnimeGANv2 | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [AnimeGAN-GUI🔥](Style%20Transfer/animegan_gui.md) | 8.9Mb | AnimeGANv2 | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |                                                  |       |            |        |         |     |       |                                                                                                                             |
 |                                                  |       |            |        |         |     |       |                                                                                                                             |  |
 
@@ -60,7 +60,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 | 名称                               | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | ---------------------------------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [RVM-GUI](ImageMatting/rvm_gui.md) | 12.9Mb | rvm   | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [RVM-GUI🔥](ImageMatting/rvm_gui.md) | 12.9Mb | rvm   | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |                                    |        |       |        |         |     |       |                                                                                                                             |
 |                                    |
 
@@ -70,8 +70,8 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 | 名称                                          | 大小   | Model       | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | --------------------------------------------- | ------ | ----------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [MODNet-GUI](VideoMatting/modnet_gui.md)      | 77.5Mb | modnet      | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-| [MobileNetV2-GUI](VideoMatting/modnet_gui.md) | 34.6Mb | MobileNetV2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [MODNet-GUI🔥](VideoMatting/modnet_gui.md)      | 77.5Mb | modnet      | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
+| [MobileNetV2-GUI🔥](VideoMatting/modnet_gui.md) | 34.6Mb | MobileNetV2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 |                                               |        |             |        |         |     |       |                                                                                                                             |  |
 
 
@@ -116,6 +116,10 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 本人开发环境为`Windows`系统，默认会发布`Windows`和`Linux`版本，得益于微软`Sandbox`和`WSL2`，可随时测试这些环境。Mac版需要主动参与反馈。安卓APP和苹果APP，技术上是支持的(`uni-app+ncnn`)，未来或许可以加入。小程序端实现方式很多，有离线原生的`wasm`技术，也有在线远程调用api的方式，未来或许可以加入。
 
+### 变更日志
+
+[查看](docs/CHANGELOG.md)
+
 ### 参考
 
 - [webview/webview](https://github.com/webview/webview)
@@ -126,8 +130,11 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
 - [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan)
 - [nihui/rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan)
-- [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan)
 - [RealESRGAN](https://github.com/xinntao/Real-ESRGAN/)
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)
 - [vitejs/vite](https://github.com/vitejs/vite)
 - [Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models)
+  
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Baiyuetribe/paper2gui&type=Date)](https://star-history.com/#Baiyuetribe/paper2gui&Date)
