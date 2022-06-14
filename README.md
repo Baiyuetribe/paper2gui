@@ -2,7 +2,7 @@
 
 Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持15+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、图片OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-<p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a></p>
+<p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">B站(媒体)</a></p>
 
 ### 已发布内容
 
@@ -15,8 +15,6 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | [微软语音合成🔥](Text2Speech/microsoft_tts.md) | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [抖音火山语音🔥](Text2Speech/huoshan_tts.md)   | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [阿里云语音合成](Text2Speech/aliyun_tts.md)   | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                                               |      |            |        |         |     |       |                                                                                                                             |
-|                                               |      |            |        |         |     |       |                                                                                                                             |  |
 
 - [视频超分辨放大](Video%20Super%20Resolution/readme.md)
 
@@ -29,8 +27,6 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | [RealESRGAN-GUI](Video%20Super%20Resolution/RealESRGAN-GUI.md)           | 28.8Mb | RealESRGANv2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealCugan-GUI](Video%20Super%20Resolution/RealCugan-GUI.md)             | 56.4Mb | RealCugan    | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [RealSR-GUI](Video%20Super%20Resolution/RealSR-GUI.md)                   | 94.5Mb | RealSR       | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                                                                          |        |              |        |         |     |       |                                                                                                                             |
-|                                                                          |        |              |        |         |     |       |
 
 
 - [视频补帧](Video%20Frame%20Interpolation/readme.md)
@@ -41,8 +37,6 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | ----------------------------------------------------------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | [RIFE-GUI(RAM)🔥](Video%20Frame%20Interpolation/rife-gui.md) | 51.2Mb | Rife  | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [DAIN-GUI](Video%20Frame%20Interpolation/dain-gui.md)       | 72.6Mb | Dain  | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                                                             |        |       |        |         |     |       |                                                                                                                             |
-|                                                             |        |       |        |         |     |       |                                                                                                                             |
 
 - [图像风格化(照片转动漫)](Style%20Transfer/readme.md)
 
@@ -51,8 +45,6 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | 名称                                              | 大小  | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | ------------------------------------------------- | ----- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | [AnimeGAN-GUI🔥](Style%20Transfer/animegan_gui.md) | 8.9Mb | AnimeGANv2 | ✅      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                                                   |       |            |        |         |     |       |                                                                                                                             |
-|                                                   |       |            |        |         |     |       |                                                                                                                             |  |
 
 - [人像抠图](ImageMatting/readme.md)
 
@@ -61,7 +53,6 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | 名称                                | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
 | ----------------------------------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | [RVM-GUI🔥](ImageMatting/rvm_gui.md) | 12.9Mb | rvm   | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                                     |        |       |        |         |     |       |                                                                                                                             |
 |                                     |
 
 - [视频抠图](VideoMatting/readme.md)
@@ -72,7 +63,6 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | ---------------------------------------------- | ------ | ----------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | [MODNet-GUI🔥](VideoMatting/modnet_gui.md)      | 77.5Mb | modnet      | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 | [MobileNetV2-GUI🔥](VideoMatting/modnet_gui.md) | 34.6Mb | MobileNetV2 | 🔲      | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
-|                                                |        |             |        |         |     |       |                                                                                                                             |  |
 
 
 - [目标检测](Object%20Detection/readme.md)
@@ -82,17 +72,14 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | 名称      | 大小 | Model | 多语言 | Windows | Mac | Linux | 下载                                                  |
 | --------- | ---- | ----- | ------ | ------- | --- | ----- | ----------------------------------------------------- |
 | Yolo2-GUI |      | yolo2 | ✅      | ✅       | 🔲   | 🔲     | [Yolo2-GUI](https://github.com/Baiyuetribe/paper2gui) |
-|           |      |       |        |         |     |       |                                                       |
-|           |      |       |        |         |     |       |                                                       |  |
 
 - [辅助工具](Auxiliary_tools/readme.md)
 
 > 辅助工具，提供了一些常用的辅助工具，比如视频比对工具等。
 
-| 名称                                        | 大小 | Model | 多语言 | Windows | Mac | Linux | 下载                                                      |
-| ------------------------------------------- | ---- | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------- |
-| [Video_compare🔥](Auxiliary_tools/readme.md) |  56.1Mb    |       |        | ✅       | 🔲   | 🔲     | [Video_compare](https://github.com/Baiyuetribe/paper2gui) |
-|                                             |      |       |        |         |     |       |                                                           |
+| 名称                                        | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                                                                        |
+| ------------------------------------------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| [Video_compare🔥](Auxiliary_tools/readme.md) | 56.1Mb |       |        | ✅       | 🔲   | 🔲     | [Github](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) [云盘](https://www.aliyundrive.com/s/2b4hyudGkni) |
 
 ### 部分截图
 
