@@ -1,0 +1,30 @@
+var:
+  title: GFPGAN-GUI人脸图片修复工具(Power by 佰阅科技)
+
+menue:
+  task: 修复
+  setting: 设置
+  language: 语言
+  tool: 工具
+  about: 关于
+
+task:
+  name: AI人脸图片修复 - GFPGAN(Real-world Face Restoration)
+  input: 输入
+  choice: 选择文件
+  start: 开始
+
+setting:
+  word0: 受限于上游ncnn模型转换问题，当前无法支持动态输出，因此正方形图片效果最佳，输出大小统一为512*512.
+  word1: 输出文件在输入图片位置生成，格式为gfp_20220418.png
+  word2: 由于上游转换ncnn困难，当前无法动态输出，因此视频处理暂时放弃，只支持图片处理。
+
+language:
+  slogan: 让每个人都简单方便的使用前沿人工智能技术
+
+about:
+  soft_info: 软件信息
+  ad_info: 赞助广告
+  ai_name: GFPGAN人脸图片修复
+  ai_text: GFPGAN 旨在开发用于真实世界人脸恢复的实用算法。几乎适用于任意人脸图片增强。目前受ncnn模型转换，该模型暂时无法动态输入，输入正方形图片效果最佳。
+  reference: 相关资料：

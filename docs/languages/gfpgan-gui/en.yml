@@ -1,0 +1,30 @@
+var:
+  title: GFPGAN-GUI Face Image Repair Tool(Power by 佰阅科技)
+
+menue:
+  task: Repair
+  setting: setting
+  language: language
+  tool: tool
+  about: about
+
+task:
+  name: AI Face Image Restoration - GFPGAN(Real-world Face Restoration)
+  input: input
+  choice: Select file
+  start: start
+
+setting:
+  word0: Limited by the upstream ncnn model conversion problems, the current can not support dynamic output, so the best effect of the square image, the output size of a uniform 512 * 512.
+  word1: The output file is generated at the input image location in the format of gfp_20220418.png
+  word2: Due to the difficulty of upstream conversion ncnn, the dynamic output is currently not available, so video processing is temporarily abandoned and only image processing is supported.
+
+language:
+  slogan: Making cutting-edge AI technology easy and accessible to everyone
+
+about:
+  soft_info: Software information
+  ad_info: sponsored ads
+  ai_name: GFPGAN Face Image Restoration
+  ai_text: GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration.
+  reference: Reference
