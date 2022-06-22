@@ -1,0 +1,34 @@
+var:
+  title: YOLOv5-GUI Object Detection NCNN version(Power by 佰阅科技)
+
+menue:
+  task: Detection
+  dev: Dev
+  language: Language
+  tool: Store
+  about: About
+
+task:
+  name: AI Object Detection - YOLOv5(Object Detection)
+  mode: Mode
+  preview: Preview
+  generate: Generate
+  prob: Confidence
+  nms: NMS
+  prob_tips: The lower the value, the more content is detected
+  nms_tips: The larger the value, the less overlapping boxes
+  input: Input
+  choice: Select file
+  start: Start
+  cancel: Cancel Mission
+  custom: Custom
+
+language:
+  slogan: Make it easy and convenient for everyone to use cutting-edge artificial intelligence technology
+
+about:
+  soft_info: Software Info
+  ad_info: Sponsored Ads
+  ai_name: About YOLOv5：
+  ai_text: Yolo series is the abbreviation of "You only look once", which is a common target detection algorithm, this APP can handle single picture or video files, and the development bar can apply custom models for testing.
+  reference: Reference

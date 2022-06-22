@@ -1,0 +1,34 @@
+var:
+  title: YOLOv5-GUI目标检测NCNN版(Power by 佰阅科技)
+
+menue:
+  task: 检测
+  dev: 开发
+  language: 语言
+  tool: 工具
+  about: 关于
+
+task:
+  name: AI目标检测 - YOLOv5(Object Detection)
+  mode: 模式
+  preview: 预览
+  generate: 生成
+  prob: 置信度
+  nms: NMS值
+  prob_tips: 值越低检测内容越多
+  nms_tips: 值越大重叠框越少
+  input: 输入
+  choice: 选择文件
+  start: 开始
+  cancel: 取消任务
+  custom: 自定义
+
+language:
+  slogan: 让每个人都简单方便的使用前沿人工智能技术
+
+about:
+  soft_info: 软件信息
+  ad_info: 赞助广告
+  ai_name: 关于YOLOv5：
+  ai_text: Yolo系列是“You only look once”的简写，是常用的目标检测算法，本APP可处理单张图片或视频文件，开发栏可以套用自定义模型以供测试。
+  reference: 相关资料：

@@ -1,6 +1,6 @@
 ##  <p align="center"> Paper2GUI 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
 
-Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持15+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、图片OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">B站(媒体)</a></p>
 
@@ -53,7 +53,6 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | 名称                                | 大小   | Model | 多语言 | Windows | Mac | Linux | 下载                                                                        |
 | ----------------------------------- | ------ | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [RVM-GUI🔥](ImageMatting/rvm_gui.md) | 12.9Mb | rvm   | 🔲      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
-|                                     |
 
 - [人像修复](FaceRestoration/readme.md)
 
@@ -62,7 +61,6 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | 名称                                     | 大小  | Model  | 多语言 | Windows | Mac | Linux | 下载                                                                        |
 | ---------------------------------------- | ----- | ------ | ------ | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [GFPGAN-GUI🔥](FaceRestoration/readme.md) | 242Mb | GFPGAN | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
-|                                          |
 
 - [视频抠图](VideoMatting/readme.md)
 
@@ -78,9 +76,9 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 > 适用范围太广，比如物体检测、口罩检测、车牌检测、车辆检测、苹果质量等级检测等等。
 
-| 名称      | 大小 | Model | 多语言 | Windows | Mac | Linux | 下载                                                  |
-| --------- | ---- | ----- | ------ | ------- | --- | ----- | ----------------------------------------------------- |
-| Yolo2-GUI |      | yolo2 | ✅      | ✅       | 🔲   | 🔲     | [Yolo2-GUI](https://github.com/Baiyuetribe/paper2gui) |
+| 名称                                           | 大小   | Model   | 多语言 | Windows | Mac | Linux | 下载                                                                        |
+| ---------------------------------------------- | ------ | ------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------- |
+| [YOLOv5-GUI](Object%20Detection/yolov5_gui.md) | 60.2Mb | yolov5s | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
 - [辅助工具](Auxiliary_tools/readme.md)
 
@@ -94,12 +92,16 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/huoshan_tts.png)
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/microsoft_tts.gif)
+![](docs/images/gfpgan_gui.png)
+
+![](docs/images/rvm_gui.jpg)
+
+![](docs/images/video_compare.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/rife-gui.gif)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/modnet_gui.png)
 
-![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/waifu2x-gui.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/RealESRGANv2-GUI.png)
 
@@ -109,12 +111,10 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realsr-gui.png)
 
-![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/aliyun-tts.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/animegan-gui.png)
 
-![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/yalo2screen.gif)
-
+![](docs/images/yolov5_gui.png)
 
 ### 适配说明
 
