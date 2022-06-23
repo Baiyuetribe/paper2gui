@@ -3,6 +3,11 @@
 Paper2GUI: An AI desktop APP toolbox for common people, free installation and ready to use, already supports 10+ AI models, covering the fields of speech synthesis, video frame filling, video overscoring, target detection, image stylization, OCR recognition, etc. Support Windows, Mac, Linux systems.
 
 <p align="center">English | <a href="README.md">中文</a> | <a href="https://t.me/baiyueblog">Telegram</a></p>
+
+```
+Multi-language : Indicates that the program already supports at least two languages, For example Chinese、English、日本語、한국어、ไทย、Français、Italiano、Español、Русский
+```
+
 - Text to Speech
 
 | Name                                          | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                                    |
@@ -39,9 +44,10 @@ Paper2GUI: An AI desktop APP toolbox for common people, free installation and re
 
 - Object Detectio
 
-| Name                                           | Size   | Model   | Multi-language | Windows | Mac | Linux | Download                                                                    |
-| ---------------------------------------------- | ------ | ------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
-| [YOLOv5-GUI](Object%20Detection/yolov5_gui.md) | 60.2Mb | yolov5s | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+| Name                                           | Size   | Model      | Multi-language | Windows | Mac | Linux | Download                                                                    |
+| ---------------------------------------------- | ------ | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
+| [YOLOv5-GUI](Object%20Detection/yolov5_gui.md) | 60.2Mb | yolov5s    | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+| [YOLOX-GUI](Object%20Detection/yolox_gui.md)   | 50Mb   | yolox_nano | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
 
 - [FaceRestoration](FaceRestoration/readme.md)
@@ -71,7 +77,7 @@ Paper2GUI: An AI desktop APP toolbox for common people, free installation and re
 | [Video_compare🔥](Auxiliary_tools/readme.md) | 56.1Mb |       |                | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
 
-- Screenshot
+### Example Screenshot
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/huoshan_tts.png)
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/microsoft_tts.gif)
@@ -86,17 +92,16 @@ Paper2GUI: An AI desktop APP toolbox for common people, free installation and re
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/modnet_gui.png)
 
 
-![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/RealESRGANv2-GUI.png)
 
 ![](docs/images/realESRGAN_RAM.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realcugan-gui.png)
 
-![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realsr-gui.png)
 
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/animegan-gui.png)
 
+![](docs/images/yolox_gui.png)
 ![](docs/images/yolov5_gui.png)
 
 

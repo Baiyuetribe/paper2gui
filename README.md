@@ -76,9 +76,10 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 > 适用范围太广，比如物体检测、口罩检测、车牌检测、车辆检测、苹果质量等级检测等等。
 
-| 名称                                           | 大小   | Model   | 多语言 | Windows | Mac | Linux | 下载                                                                        |
-| ---------------------------------------------- | ------ | ------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------- |
-| [YOLOv5-GUI](Object%20Detection/yolov5_gui.md) | 60.2Mb | yolov5s | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+| 名称                                           | 大小   | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                        |
+| ---------------------------------------------- | ------ | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------- |
+| [YOLOv5-GUI](Object%20Detection/yolov5_gui.md) | 60.2Mb | yolov5s    | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+| [YOLOX-GUI](Object%20Detection/yolox_gui.md)   | 50Mb   | yolox_nano | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
 - [辅助工具](Auxiliary_tools/readme.md)
 
@@ -103,17 +104,16 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/modnet_gui.png)
 
 
-![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/RealESRGANv2-GUI.png)
 
 ![](docs/images/realESRGAN_RAM.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realcugan-gui.png)
 
-![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realsr-gui.png)
 
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/animegan-gui.png)
 
+![](docs/images/yolox_gui.png)
 ![](docs/images/yolov5_gui.png)
 
 ### 适配说明
