@@ -46,6 +46,7 @@ Multi-language : Indicates that the program already supports at least two langua
 
 | Name                                           | Size   | Model      | Multi-language | Windows | Mac | Linux | Download                                                                    |
 | ---------------------------------------------- | ------ | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
+| [YOLOv6-GUI](Object%20Detection/yolov6_gui.md) | 46Mb   | yolov6n    | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 | [YOLOv5-GUI](Object%20Detection/yolov5_gui.md) | 60.2Mb | yolov5s    | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 | [YOLOX-GUI](Object%20Detection/yolox_gui.md)   | 50Mb   | yolox_nano | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
@@ -101,6 +102,7 @@ Multi-language : Indicates that the program already supports at least two langua
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/animegan-gui.png)
 
+![](docs/images/yolov6_gui.png)
 ![](docs/images/yolox_gui.png)
 ![](docs/images/yolov5_gui.png)
 

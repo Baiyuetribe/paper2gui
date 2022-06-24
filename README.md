@@ -78,6 +78,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 | 名称                                           | 大小   | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                        |
 | ---------------------------------------------- | ------ | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------- |
+| [YOLOv6-GUI](Object%20Detection/yolov6_gui.md) | 46Mb   | yolov6n    | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 | [YOLOv5-GUI](Object%20Detection/yolov5_gui.md) | 60.2Mb | yolov5s    | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 | [YOLOX-GUI](Object%20Detection/yolox_gui.md)   | 50Mb   | yolox_nano | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
@@ -113,6 +114,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/animegan-gui.png)
 
+![](docs/images/yolov6_gui.png)
 ![](docs/images/yolox_gui.png)
 ![](docs/images/yolov5_gui.png)
 

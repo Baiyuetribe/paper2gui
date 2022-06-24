@@ -4,7 +4,7 @@
 
 ## 软件截图：
 
-![](../docs/images/yolov5_gui.png)
+![](../docs/images/yolov6_gui.png)
 
 
 ## 软件特点
@@ -25,7 +25,7 @@
 
 ## 模型备注
 
-模型只用yolov5 6.1版本，具体转换ncnn模型的方法，可参考[Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models)
+软件内集成了yolox_nano版本，其他模型转换ncnn模型的方法，可参考[Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models)
 
 
 ## 下载地址：
@@ -39,8 +39,9 @@
 
 ## 参考
 
-- [ultralytics/yolov5/](https://github.com/ultralytics/yolov5)
+- [meituan/YOLOv6](https://github.com/meituan/YOLOv6)
 - [Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models)
+- [FeiGeChuanShu/ncnn-android-yolov6](https://github.com/FeiGeChuanShu/ncnn-android-yolov6)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn)
 - [Naive-ui](https://www.naiveui.com/zh-CN/os-theme)
 - [wailsapp/wails](https://github.com/wailsapp/wails)

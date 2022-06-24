@@ -1,6 +1,6 @@
 # 目标检测
 
-【快捷入口：[综述](readme.md) # [YOLOv5](yolov5_gui.md) # [YOLOX](yolox_gui.md)  】
+【快捷入口：[综述](readme.md) # [YOLOv5](yolov5_gui.md) # [YOLOX](yolox_gui.md) # [YOLOv6](yolov6_gui.md)   】
 
 ## 开发者评价
 > 截至2022年5月，yolo系列成为目标检测、追踪、识别等等常用工具。
