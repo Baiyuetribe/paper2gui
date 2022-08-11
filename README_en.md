@@ -11,6 +11,7 @@ Multi-language : This program already supports at least two languages, For examp
 - [Text to Speech](Text2Speech/readme_en.md)
 
 > Text to Speech tool which converts text into speech for dubbing, explanation, storytelling, advertisments, etc...
+
 | Name                                          | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                                    |
 | --------------------------------------------- | ----- | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [microsoft-tts](Text2Speech/microsoft_tts.md) | 3.6Mb | FastSpeech | ✅              | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
@@ -21,6 +22,7 @@ Multi-language : This program already supports at least two languages, For examp
 - [Video Super Resolution](Video%20Super%20Resolution/readme_en.md)
 
 > Video Super Resolution tool. It is recommended to be used for 720p or 360p video to 1080p or 4K video. Mainly used for anime related content
+
 | Name                                                                     | Size   | Model        | Multi-language | Windows | Mac | Linux | Download                                                                    |
 | ------------------------------------------------------------------------ | ------ | ------------ | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [RealESRGAN-GUI(RAM)🔥](Video%20Super%20Resolution/RealESRGAN-GUI-RAM.md) | 41.8Mb | RealESRGANv3 | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
@@ -33,6 +35,8 @@ Multi-language : This program already supports at least two languages, For examp
 - [Video Frame Interpolation](Video%20Frame%20Interpolation/readme_en.md)
 
 > Tool for increasing the FPS within videos. From 30FPS to 60FPS for smoother transitions and motion.
+
+
 | Name                                                        | Size   | Model | Multi-language | Windows | Mac | Linux | Download                                                                    |
 | ----------------------------------------------------------- | ------ | ----- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [RIFE-GUI(RAM)🔥](Video%20Frame%20Interpolation/rife-gui.md) | 51.2Mb | Rife  | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
@@ -41,6 +45,8 @@ Multi-language : This program already supports at least two languages, For examp
 - [Styletransfer(photo2Anime)](Style%20Transfer/readme_en.md)
 
 > For Stylizing Images converting regular photos into different art styles such as anime style, Van Gogh style, Picasso style, etc...
+
+
 | Name                                              | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                                    |
 | ------------------------------------------------- | ----- | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [AnimeGAN-GUI🔥](Style%20Transfer/animegan_gui.md) | 8.9Mb | AnimeGANv2 | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
@@ -49,6 +55,8 @@ Multi-language : This program already supports at least two languages, For examp
 - [Object Detection](ImageMatting/readme_en.md)
 
 > Automatic video keying by AI. Which can be used for creating transparent maps or putting a green/blue/red screen behind certain objects,anime characters,cartoon.
+
+
 | Name                                           | Size   | Model      | Multi-language | Windows | Mac | Linux | Download                                                                    |
 | ---------------------------------------------- | ------ | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [YOLOv6-GUI](Object%20Detection/yolov6_gui.md) | 46Mb   | yolov6n    | ✅              | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
@@ -67,6 +75,8 @@ Multi-language : This program already supports at least two languages, For examp
 - [VideoMatting](VideoMatting/readme_en.md)
 
 > Video Matting, using RVM and other algorithms, can achieve no green screen video keying, suitable for all kinds of self-publishing video production, saving a lot of time.
+
+
 
 | Name                                           | Size   | Model       | Multi-language | Windows | Mac | Linux | Download                                                                    |
 | ---------------------------------------------- | ------ | ----------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
