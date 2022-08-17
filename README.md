@@ -4,6 +4,13 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">B站(媒体)</a></p>
 
+
+> 经过两个月的开发，我们将现有的优秀AI模型进行了统一融合，Paper2GUI 现在有了一个中文名“小白兔AI”。
+
+![](docs/images/xiaobaituai.png)
+
+下载地址：[Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published)
+
 ### 已发布内容
 
 - [语音合成](Text2Speech/readme.md)
