@@ -20,8 +20,8 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | 名称                                          | 大小 | Model      | 多语言 | Windows | Mac | Linux | 下载                                                                        |
 | --------------------------------------------- | ---- | ---------- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [微软语音合成🔥](Text2Speech/microsoft_tts.md) | 5Mb  | FastSpeech | ✅      | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
-| [抖音火山语音🔥](Text2Speech/huoshan_tts.md)   | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
-| [阿里云语音合成](Text2Speech/aliyun_tts.md)   | 13Mb | Unkonw     | 🔲      | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+| [抖音火山语音🔥](Text2Speech/huoshan_tts.md)   | 13Mb | Unknown    | 🔲      | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+| [阿里云语音合成](Text2Speech/aliyun_tts.md)   | 13Mb | Unknown    | 🔲      | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
 - [视频超分辨放大](Video%20Super%20Resolution/readme.md)
 

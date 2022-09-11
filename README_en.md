@@ -15,8 +15,8 @@ Multi-language : This program already supports at least two languages, For examp
 | Name                                          | Size  | Model      | Multi-language | Windows | Mac | Linux | Download                                                                    |
 | --------------------------------------------- | ----- | ---------- | -------------- | ------- | --- | ----- | --------------------------------------------------------------------------- |
 | [microsoft-tts](Text2Speech/microsoft_tts.md) | 3.6Mb | FastSpeech | ✅              | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
-| [huoshan_tts](Text2Speech/huoshan_tts.md)     | 13Mb  | Unkonw     | 🔲              | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
-| [aliyun-tts](Text2Speech/aliyun_tts.md)       | 13Mb  | Unkonw     | 🔲              | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+| [huoshan_tts](Text2Speech/huoshan_tts.md)     | 13Mb  | Unknown    | 🔲              | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+| [aliyun-tts](Text2Speech/aliyun_tts.md)       | 13Mb  | Unknown    | 🔲              | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
 
 - [Video Super Resolution](Video%20Super%20Resolution/readme_en.md)
