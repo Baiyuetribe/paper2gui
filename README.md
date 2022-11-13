@@ -9,7 +9,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](docs/images/xiaobaituai.png)
 
-下载地址：[Download](https://pan.bilnn.cn/api/v3/file/sourcejump/GPlMnMSZ/nwe4XQKbLcsQG752HvS0KV-Yc_ETv_7RgNsZeDlkVu4*)
+下载地址：[Download](https://pan.bilnn.cn/api/v3/file/sourcejump/oEeqbpCO/UpjrzjNiRqvXHMLOygbTl9am3WTIgHURX9Sw66KY6oY*)
 
 ### 已发布内容【单独APP完全免费】
 
@@ -110,8 +110,10 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | 语音合成                | 自媒体视频配音、有声读书等 | 效果逼近真人，发音自然、带呼吸声、支持txt大文件极速合成                                         |
 | 录音降噪                | 真人配音后处理             | 一键去除环境和背景噪音，提升录音清晰度，效果明显                                                |
 | 视频补帧                | 运动类视频流畅度升级工具   | 可获得丝滑观感，已支持RIFE和IFRNET两种AI模型                                                    |
+| 一键超补                | 同时完成超分和补帧         | 融合超分和补帧模型，一键获得超补结果                                                            |
 | AI一键跑分              | 一键查看设备AI性能数据     | 模拟真实推理任务，统一量化推理任务，耗时越小越好                                                |
 | 图片OCR识别             | 图片转文字                 | 基于Paddle-OCR-v3模型，迄今最优秀的OCR识别模型、效果出众                                        |
+| 视频字幕OCR提取         | 硬字幕提取                 | 使用PP-OCR自动识别字幕位置及文字，输出字幕文件                                                  |
 | 视频上色                | 老旧黑白照片或视频上色     | 适合风景类黑白视频上色，推理速度快                                                              |
 | 人脸修复                | 人脸照片修复               | 可增强老旧照片、修复人脸，提高清晰度                                                            |
 | 目标检测                | 图像检测和分割             | 展示AI技术在通用场景下的检测、分割、追踪等效果                                                  |
