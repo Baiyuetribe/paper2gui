@@ -23,6 +23,15 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 | [抖音火山语音🔥](Text2Speech/huoshan_tts.md)   | 13Mb | Unknown    | 🔲      | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 | [阿里云语音合成](Text2Speech/aliyun_tts.md)   | 13Mb | Unknown    | 🔲      | ✅       | ✅   | ✅     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
 
+- [艺术绘画](StableDiffusion/readme.md)
+  
+> 文本转图片，想象力与AI的完美结合
+
+| 名称                                          | 大小 | Model | 多语言 | Windows | Mac | Linux | 下载                                                                        |
+| --------------------------------------------- | ---- | ----- | ------ | ------- | --- | ----- | --------------------------------------------------------------------------- |
+| [StableDiffusion🔥](StableDiffusion/readme.md) | 10Mb | Naifu | ✅      | ✅       | 🔲   | 🔲     | [Download](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published) |
+
+
 - [视频超分辨放大](Video%20Super%20Resolution/readme.md)
 
 > 视频超分工具，适用于720p或360p视频转1080p或4k视频,画质升级且不模糊，目前主要用于动漫视频超分。
