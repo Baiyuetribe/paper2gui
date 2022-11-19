@@ -1,4 +1,4 @@
-# StableDiffusonGUI
+# StableDiffusionGUI
 
 
 ## 说明
