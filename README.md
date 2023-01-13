@@ -5,13 +5,13 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">B站(媒体)</a></p>
 
 
-> 经过两个月的开发，我们将现有的优秀AI模型进行了统一融合，Paper2GUI 现在有了一个中文名“小白兔AI”。
+> 为了持久发展，我们将现有的优秀AI模型进行了统一融合，Paper2GUI 现在有了一个中文名“小白兔AI”。
 
-![](docs/images/xiaobaituai.png)
+![](docs/images/xiaobaituai.jpg)
 
-下载地址：[Download](https://ffsup.oduuu.com/uploads%2F1759%2F2022%2F11%2FLFYBw9HN_%E5%B0%8F%E7%99%BD%E5%85%94AI_v2.3.0.zip)
+下载地址：[Download](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/AI-amd64-installer_2_4_0.exe)
 
-### 已发布内容【单独APP完全免费】
+### 已发布内容【下列独立APP完全免费】
 
 - [语音合成](Text2Speech/readme.md)
   
@@ -108,7 +108,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 - [小白兔AI - 聚合版【更专业的选择】](https://xiaobaituai.com)
 
-> 小白兔AI 是一款功能非常强大的人工智能软件,实现了语音合成、视频抠图、动漫超分辨、视频补帧、录音降噪、视频上色、人脸动漫化、图片OCR批量识别等十余种功能，致力于打造一款实用、好玩又有趣的AI生产力聚合工具箱。面向专业用户，可免费试用7天。
+> 小白兔AI 是一款功能非常强大的人工智能软件,实现了语音合成、视频抠图、动漫超分辨、视频补帧、录音降噪、视频上色、人脸动漫化、图片OCR批量识别等30余种功能，致力于打造一款实用、好玩又有趣的AI生产力聚合工具箱。面向专业用户，可免费试用14天。
 
 | 已内置功能              | 适用场景                   | 功能简介                                                                                        |
 | ----------------------- | -------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -164,7 +164,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ### 社群交流
 
-QQ群：497556961（限时领福利）
+QQ群：497556961
 
 ### 变更日志
 
