@@ -30,7 +30,7 @@ prompt：支持positive和negative
 
 ## 下载地址
 
-https://github.com/Baiyuetribe/paper2gui/releases/tag/Published
+该功能在小白兔AI里已永久免费开放，欢迎使用。
 
 
 ## 参考

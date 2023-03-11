@@ -1,15 +1,17 @@
 ## <p align="center"> Paper2GUI 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
 
-Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 30+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
+Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
 
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">B站(媒体)</a></p>
 
 ![](docs/images/xiaobaituai.jpg)
 
+> 小白兔AI 3.0版起永久免费AI绘画、人脸动漫化，图片修图和视频补帧功能，欢迎使用
+
 下载小白兔 AI：
 
-- [Windows 版](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/AI-amd64-installer_2_4_0.exe)
-- [苹果 Mac(原生支持 M1/2 芯片)](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XiaoBaituAI_MAC.arm64.zip)
+- [Windows 版](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_Windows.exe)
+- [Mac 版(原生支持 M1/2 芯片)](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_Arm64.zip)
 
 ### 已发布内容【下列独立 APP 完全免费】
 
@@ -105,7 +107,7 @@ Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即
 
 - [小白兔 AI - 聚合版【更专业的选择】](https://xiaobaituai.com)
 
-> 小白兔 AI 是一款功能非常强大的人工智能软件,实现了 AI 绘画、语音合成、视频抠图、动漫超分辨、视频补帧、录音降噪、视频上色、人脸动漫化、图片 OCR 批量识别等 30 余种功能，致力于打造一款实用、好玩又有趣的 AI 生产力聚合工具箱。面向生产力用户，可免费试用 14 天，支持 Windows 和 Mac 系统。
+> 小白兔 AI 是一款功能非常强大的人工智能软件,实现了 AI 绘画、语音合成、视频抠图、动漫超分辨、视频补帧、录音降噪、视频上色、人脸动漫化、图片修图、视频修复等 40 余种功能，致力于打造一款实用、好玩又有趣的 AI 生产力聚合工具箱。面向生产力用户，可免费试用 14 天，支持 Windows 和 Mac 系统。从3.0版起AI绘画、人脸动漫化、图片修复和视频补帧永久免费。
 
 | 已内置功能               | 适用场景                   | 功能简介                                                                                            |
 | ------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -123,6 +125,10 @@ Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即
 | 视频上色                 | 老旧黑白照片或视频上色     | 适合风景类黑白视频上色，推理速度快                                                                  |
 | 人脸修复                 | 人脸照片修复               | 可增强老旧照片、修复人脸，提高清晰度                                                                |
 | 目标检测                 | 图像检测和分割             | 展示 AI 技术在通用场景下的检测、分割、追踪等效果                                                    |
+| 图像修复                 | 老旧照片修复             | 可全身修复，也可只修复人脸，效果出众                                                   |
+| 视频转动漫                 | 风格迁移             | 普通视频转换为动漫画风的视频                                                  |
+| Whisper语音识别                 | 支持十几种语言识别             | 一键本地生成字幕                                                    |
+| 字幕翻译                 | 连续语境下的字幕翻译             | 告别传统单条字幕翻译，连续语境更准确，支持28种语言互译                                                    |
 
 > 聚合版面向专业需求用户，付费只是为了持续产出优质 AI 应用。已开源的 20 个单独 APP 完全免费，各取所需，请勿喷我，如果项目帮到了你，不妨点个 Star。
 

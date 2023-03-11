@@ -27,6 +27,7 @@
 
 ## 下载地址：
 
+`该功能在小白兔AI 3.0版起永久免费开放，欢迎使用`
 方式1：[GitHub](https://github.com/Baiyuetribe/paper2gui/releases/tag/Published)
 方式2：[阿里云盘](https://www.aliyundrive.com/s/2b4hyudGkni)
 
