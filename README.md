@@ -6,12 +6,12 @@ Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即
 
 ![](docs/images/xiaobaituai.jpg)
 
-> 小白兔AI 3.0版起永久免费AI绘画、人脸动漫化，图片修图和视频补帧功能，欢迎使用
+> 小白兔AI 3.0版起永久免费AI绘画、人脸动漫化，图片修复和视频补帧功能，欢迎使用
 
 下载小白兔 AI：
 
 - [Windows 版](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_Windows.exe)
-- [Mac 版(原生支持 M1/2 芯片)](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_Arm64.zip)
+- [Mac 版(原生支持 M1/2 芯片)](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_Mac_Arm64.zip)
 
 ### 已发布内容【下列独立 APP 完全免费】
 
