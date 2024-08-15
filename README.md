@@ -1,6 +1,6 @@
 ## <p align="center"> Paper2GUI 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
 
-Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
+Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、伴奏分离、字幕翻译、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
 
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">B站(媒体)</a></p>
 
@@ -10,8 +10,10 @@ Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即
 
 下载小白兔 AI：
 
-- [Windows 版](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_Windows.exe)
-- [Mac 版(原生支持 M1/2 芯片)](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_Mac_Arm64.zip)
+- [Windows_x64【适用于 win10 及以上】](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_win_x64.exe)
+- [Windows_arm64【适用于高通芯片】](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_win_arm64.exe)
+- [Mac_arm64【适用于苹果 M 系芯片】](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_mac_arm64.zip)
+- [Mac_x64【适用于 Inter 芯片】](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_mac_x64.zip)
 
 ### 已发布内容【下列独立 APP 完全免费】
 
@@ -182,6 +184,7 @@ QQ 群：497556961
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)
 - [vitejs/vite](https://github.com/vitejs/vite)
 - [Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models)
+- [Baiyuetribe/ncnnrs](https://github.com/Baiyuetribe/ncnnrs)
 
 ### Star History
 
