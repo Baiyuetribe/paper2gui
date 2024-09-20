@@ -1,19 +1,22 @@
 ## <p align="center"> Paper2GUI 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术 </p>
 
-Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、伴奏分离、字幕翻译、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
+Paper2GUI: 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 50+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、伴奏分离、字幕翻译、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
 
 <p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">B站(媒体)</a></p>
 
 ![](docs/images/xiaobaituai.jpg)
 
-> 小白兔 AI 3.0 版起永久免费 AI 绘画、人脸动漫化，图片修复和视频补帧功能，欢迎使用
-
 下载小白兔 AI：
-
-- [Windows_x64【适用于 win10 及以上】](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_win_x64.exe)
-- [Windows_arm64【适用于高通芯片】](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_win_arm64.exe)
-- [Mac_arm64【适用于苹果 M 系芯片】](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_mac_arm64.zip)
-- [Mac_x64【适用于 Inter 芯片】](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_mac_x64.zip)
+| 系统 | 架构 | 格式 | 备注 | 下载 |
+|------|-----|------|------|---------|
+| Windows | x64 | exe | 适用于 win10 及以上 | [下载](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_win_x64.exe) |
+| | arm64 | exe | 适用于高通晓龙芯片 | [下载](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_win_arm64.exe) |
+| Mac | arm64 | dmg | 适用于苹果 M 系芯片 | [下载](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_mac_arm64.zip) |
+| | x64 | dmg | 适用于 Intel 芯片 | [下载](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_mac_x64.zip) |
+| Linux | x64 | deb |deb 包适用于 Debian 系 | [下载](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_linux_x64.deb) |
+| | arm64 | deb | | [下载](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_linux_arm64.deb) |
+| | x64 | rpm |rpm 包适用于 RedHat 系 | [下载](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_linux_x64.rpm) |
+| | arm64 | rpm | | [下载](https://github.com/Baiyuetribe/paper2gui/releases/download/Published/XBT_AI_linux_arm64.rpm) |
 
 ### 已发布内容【下列独立 APP 完全免费】
 
